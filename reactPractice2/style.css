@@ -1,0 +1,267 @@
+body {
+    background: linear-gradient(to right, #2a3cad, #9d18b4f9);
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    /* background-color: aqua; */
+}
+
+/* nav bar */
+
+.navbar {
+    max-width: 1550px;
+    margin-inline: auto;
+    /* border: 2px solid red; */
+}
+
+.nav-content {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+}
+
+.search {
+    width: 192px;
+    border: 1px solid #1e293b36;
+    padding: 5px 8px;
+    font-size: large;
+    background-color: #1E293B4D;
+    color: whitesmoke;
+    border-radius: 12px;
+}
+
+.nav-content p {
+    margin-right: 12px;
+    font-size: large;
+
+}
+
+.navbar p+p {
+    margin-top: 26px;
+}
+
+/* hero section */
+
+.hero_section {
+    max-width: 1200px;
+    margin-inline: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 2px solid red; */
+}
+
+.hero1 {
+    /* border: 2px solid blue; */
+    width: 600px;
+}
+
+.image-container {
+    display: flex;
+    /* border: 2px solid green; */
+}
+
+.title1 {
+    font-weight: bolder;
+    font-size: 3.45rem;
+    color: red;
+}
+
+.title2 {
+    word-wrap: break-word;
+    color: white;
+    font-weight: bolder;
+    font-size: 3.25rem;
+    /* overflow-wrap: break-word; */
+}
+
+.title3 {
+    color: white;
+    font-size: 1.5rem;
+    line-height: 2rem;
+}
+
+span {
+    color: yellow;
+}
+
+button {
+    width: 12rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-radius: 11px;
+    border: none;
+    outline: none;
+    font-weight: 600;
+    font-size: 1.125rem;
+    cursor: pointer;
+}
+
+.btn1 {
+    background-color: rgb(5, 150, 105);
+    color: whitesmoke;
+}
+
+.btn2 {
+    background-color: rgb(196, 181, 253);
+    color: rgb(109 40 217);
+    margin-left: 12px;
+}
+
+.hero2 {
+    /* border: 2px solid green; */
+    width: 380px;
+    height: 320px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.hero2 p {
+    margin-left: 18px;
+}
+
+.dot {
+    display: flex;
+}
+
+#dot1 {
+    width: 15px;
+    height: 15px;
+    background-color: red;
+    border-radius: 50%;
+}
+
+#dot2 {
+    width: 15px;
+    height: 15px;
+    background-color: orange;
+    border-radius: 50%;
+}
+
+#dot3 {
+    width: 15px;
+    height: 15px;
+    background-color: green;
+    border-radius: 50%;
+}
+
+.para1 {
+    color: white;
+}
+
+.para2 {
+    color: blue;
+    font-weight: 600;
+}
+
+.para3 {
+    color: rgb(5, 150, 105);
+}
+
+.hero2-container {
+    background-color: black;
+    max-width: 1514px;
+    margin-top: 65px;
+    margin-inline: auto;
+}
+
+.companies {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    /* border: 2px solid red; */
+    margin-inline: auto;
+}
+
+.trusted {
+    color: grey;
+}
+
+.atlassian img {
+    width: 260px;
+    /* border: 2px solid red; */
+}
+
+.microsoft img {
+    width: 260px;
+    /* border: 2px solid red; */
+}
+
+.sourcegraph {
+    color: grey;
+    font-size: x-large;
+}
+
+.souregraphimg {
+    width: 90px;
+}
+
+.xchart {
+    color: grey;
+    font-size: x-large;
+}
+
+.xchartimg {
+    width: 40px;
+    margin-left: 40px;
+}
+
+.xchart span {
+    font-size: small;
+    color: grey;
+}
+
+.head-para {
+    max-width: 900px;
+    margin-left: 100px;
+    /* border: 2px solid red; */
+}
+
+.heading {
+    font-size: 3.75rem;
+    line-height: 1;
+    color: #3b82f6;
+    font-weight: 800;
+    text-align: center;
+}
+
+.heading2 {
+    color: grey;
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+    margin-left: 70px;
+}
+
+.scatter1 {
+    max-width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 8px;
+    background-color: #4c1d95;
+    margin-left: 164px;
+    padding-right: 20px;
+    padding-left: 24px;
+    gap: 75px;
+}
+
+.sub-scatter1 h3 {
+    color: rgb(96 165 250);
+    font-weight: 600;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.sub-scatter1 p {
+    color: whitesmoke;
+    font-size: 1.375rem;
+    line-height: 2.25rem;
+}
+
+.sub-scatter2 img {
+    width: 420px;
+    height: 320px;
+    margin-top: 34px;
+}

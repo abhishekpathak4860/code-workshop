@@ -1,0 +1,86 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin-inline: auto;
+}
+.logo{
+    margin-top: 10px;
+}
+.nav ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+   list-style: none;
+}
+.nav ul li{
+  margin: 2px 8px;
+  font-weight: 600;
+  font-size: 16px;
+  cursor: pointer;
+}
+.login{
+    color: white;
+    background-color: #D01C28;
+    padding: 5px 8px;
+}
+
+.hero{
+    max-width: 1200px;
+    margin-inline: auto;
+    display: flex;
+}
+.first-box{
+    max-width: 600px;
+}
+.first-box h1{
+    font-weight: 800;
+    font-size: 90px;
+  
+}
+.first-box p{
+   width: 400px;
+}
+.second-box{
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.second-box img{
+    width: 80%;
+    margin-top: 115px;
+    margin-inline: auto;
+}
+.shop-category{
+    display: flex;
+    width: 349px;
+    gap: 32px;
+}
+.shop{
+    background-color: #D01C28;
+     padding-top: 7px;
+     padding-bottom: 7px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+}
+.category{
+    color: gray;
+    border: 2px solid grey;
+   padding-top: 7px;
+   padding-bottom: 7px;
+    text-align: center;
+    cursor: pointer;
+}
+.avail{
+    color: grey;
+}

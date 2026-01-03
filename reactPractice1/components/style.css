@@ -1,0 +1,59 @@
+body{
+    background:linear-gradient(to right, #2a3cad,#6d1b7b)
+}
+.form-content {
+    max-width: 900px;
+    margin-inline: auto;
+    background-color: burlywood;
+    margin-top: 124px;
+    border-radius: 6px;
+}
+
+form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+form div {
+    width: 44%;
+    margin: 8px 0px;
+}
+
+form div input {
+    outline: none;
+    border: none;
+    padding: 12px 15px;
+}
+
+form div select {
+    padding: 5px 8px;
+}
+
+form div label {
+    font-weight: bold;
+    font-size: larger;
+    font-style: italic;
+}
+
+form div textarea {
+    width: 100%;
+}
+button{
+    padding: 6px 48px;
+    margin: 0px 10px;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    background-color: orangered;
+    color: white;
+    font-size: larger;
+    font-style: italic;
+}
+p{
+    text-align: center;
+    color: white;
+    font-size:50px;
+    font-weight: bolder;
+}

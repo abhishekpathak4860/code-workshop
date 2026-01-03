@@ -1,0 +1,82 @@
+.value_container {
+    display: flex;
+    width: 100%;
+    background-color: #FFFFFF;
+    border-radius: 16px;
+}
+
+.portfolio_value strong {
+    font-weight: 900;
+    font-size: 24px;
+}
+
+.value {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #535D66;
+}
+
+.value p {
+    margin-right: 6px;
+}
+
+.walletbalance {
+    margin-left: 80px;
+}
+
+.walletbalance p {
+    color: #535D66;
+}
+
+.amount {
+    display: flex;
+}
+
+.amount1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 26px;
+}
+
+.amount1 p {
+    color: gray;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.032);
+    border-radius: 6px;
+    padding: 2px;
+    font-size: x-small;
+}
+
+.amount1 strong {
+    font-weight: 900;
+    font-size: 22px;
+    color: black;
+}
+
+.amount2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.amount2 p {
+    color: gray;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.032);
+    border-radius: 6px;
+    padding: 2px;
+    font-size: x-small;
+}
+
+.amount2 strong {
+    font-weight: 900;
+    font-size: 22px;
+    color: black;
+}
+
+.deposit_withdraw {
+    margin-top: 20px;
+    margin-left: 200px;
+}

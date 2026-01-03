@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    max-width: 1200px;
+    align-items: center;
+    justify-content: space-between;
+    margin-inline: auto;
+}
+ul{
+    display: flex;
+    list-style: none;
+    gap: 12px;
+}
+li{
+    font-weight: 600;
+    font-size: larger;
+    cursor: pointer;
+}

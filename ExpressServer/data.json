@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "first_name": "Franchot",
+        "last_name": "Onge",
+        "email": "fonge0@webmd.com",
+        "gender": "Male",
+        "job_title": "124.146.118.120"
+    },
+    {
+        "id": 2,
+        "first_name": "Katine",
+        "last_name": "Mountstephen",
+        "email": "kmountstephen1@state.tx.us",
+        "gender": "Polygender",
+        "job_title": "39.1.131.115"
+    },
+    {
+        "id": 3,
+        "first_name": "Gillie",
+        "last_name": "Filtness",
+        "email": "gfiltness2@tumblr.com",
+        "gender": "Female",
+        "job_title": "174.135.179.170"
+    },
+    {
+        "id": 4,
+        "first_name": "Otis",
+        "last_name": "Garretson",
+        "email": "ogarretson3@sina.com.cn",
+        "gender": "Agender",
+        "job_title": "193.53.28.144"
+    },
+    {
+        "id": 5,
+        "first_name": "Burke",
+        "last_name": "Hasley",
+        "email": "bhasley4@blogspot.com",
+        "gender": "Male",
+        "job_title": "158.219.93.140"
+    },
+    {
+        "id": 6,
+        "first_name": "Kirsteni",
+        "last_name": "Tummons",
+        "email": "ktummons5@artisteer.com",
+        "gender": "Female",
+        "job_title": "51.238.187.13"
+    },
+    {
+        "id": 7,
+        "first_name": "Ellery",
+        "last_name": "Mallison",
+        "email": "emallison6@admin.ch",
+        "gender": "Male",
+        "job_title": "170.246.241.117"
+    },
+    {
+        "id": 8,
+        "first_name": "Allix",
+        "last_name": "Elan",
+        "email": "aelan7@github.io",
+        "gender": "Female",
+        "job_title": "69.253.94.177"
+    },
+    {
+        "id": 9,
+        "first_name": "Timofei",
+        "last_name": "Knaggs",
+        "email": "tknaggs8@hexun.com",
+        "gender": "Male",
+        "job_title": "46.112.69.253"
+    },
+    {
+        "id": 10,
+        "first_name": "Eamon",
+        "last_name": "Abramski",
+        "email": "eabramski9@shutterfly.com",
+        "gender": "Male",
+        "job_title": "110.5.56.12"
+    },
+    {
+        "id": 11,
+        "first_name": "Finlay",
+        "last_name": "McGourty",
+        "email": "fmcgourtya@cocolog-nifty.com",
+        "gender": "Male",
+        "job_title": "51.75.13.203"
+    },
+    {
+        "id": 12,
+        "first_name": "Selena",
+        "last_name": "Dartnell",
+        "email": "sdartnellb@slashdot.org",
+        "gender": "Female",
+        "job_title": "139.227.92.23"
+    },
+    {
+        "id": 13,
+        "first_name": "Heinrik",
+        "last_name": "Brinsden",
+        "email": "hbrinsdenc@earthlink.net",
+        "gender": "Male",
+        "job_title": "164.147.113.54"
+    },
+    {
+        "id": 14,
+        "first_name": "Arri",
+        "last_name": "Shayes",
+        "email": "ashayesd@cyberchimps.com",
+        "gender": "Male",
+        "job_title": "217.149.20.28"
+    },
+    {
+        "id": 15,
+        "first_name": "Mickie",
+        "last_name": "Struttman",
+        "email": "mstruttmane@1und1.de",
+        "gender": "Male",
+        "job_title": "214.37.45.48"
+    },
+    {
+        "id": 16,
+        "first_name": "Brewster",
+        "last_name": "Sprosson",
+        "email": "bsprossonf@mapy.cz",
+        "gender": "Non-binary",
+        "job_title": "69.208.135.25"
+    },
+    {
+        "id": 17,
+        "first_name": "Johan",
+        "last_name": "Hazell",
+        "email": "jhazellg@google.es",
+        "gender": "Male",
+        "job_title": "36.5.37.47"
+    },
+    {
+        "id": 18,
+        "first_name": "Jonah",
+        "last_name": "Cawthra",
+        "email": "jcawthrah@hao123.com",
+        "gender": "Male",
+        "job_title": "236.243.3.246"
+    },
+    {
+        "id": 19,
+        "first_name": "Linn",
+        "last_name": "Cham",
+        "email": "lchami@globo.com",
+        "gender": "Male",
+        "job_title": "98.136.182.215"
+    },
+    {
+        "id": 20,
+        "first_name": "Nicki",
+        "last_name": "Heeney",
+        "email": "nheeneyj@cafepress.com",
+        "gender": "Female",
+        "job_title": "102.155.41.188"
+    },
+    {
+        "first_name": "Aman",
+        "last_name": "Nishad",
+        "email": "abhi123@gmail.com",
+        "gender": "Male",
+        "job_title": "Backend Developer",
+        "id": 21
+    }
+]

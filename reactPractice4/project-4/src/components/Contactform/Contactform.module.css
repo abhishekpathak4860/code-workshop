@@ -1,0 +1,64 @@
+.hero {
+    max-width: 1000px;
+    height: 700px;
+    margin-inline: auto;
+    display: flex;
+    margin-top: 25px;
+    border: 2px solid red;
+}
+
+.form {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 18px;
+    border: 2px solid red;
+}
+
+.buttons {
+    display: flex;
+    gap: 22px;
+}
+
+.form form {
+    display: flex;
+    flex-direction: column;
+}
+
+.form_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 25px;
+    position: relative;
+}
+
+.form_container label {
+    font-weight: 600;
+    position: absolute;
+    top: -12px;
+    left: 10px;
+    background-color: white;
+}
+
+.form_container input {
+    height: 40px;
+    padding: 0 8px;
+}
+
+.form_container textarea {
+    padding: 15px 8px;
+}
+
+.form_containerButton {
+    display: flex;
+    align-self: flex-end;
+}
+
+.image {
+    max-width: 500px;
+}
+
+.image img {
+    width: 100%;
+}

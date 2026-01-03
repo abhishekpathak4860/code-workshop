@@ -1,0 +1,17 @@
+.header{
+    height: 80px;
+    max-width: 1200px;
+    margin-inline: auto;
+   box-shadow:  0px 1px 8px -1px brown;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    font-size: xx-large;
+    font-weight: bolder;
+    cursor: pointer;
+}

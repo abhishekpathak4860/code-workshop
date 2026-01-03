@@ -1,0 +1,11 @@
+.counter{
+    max-width: 1200px ;
+    margin-inline: auto;
+    text-align: center;
+    margin-top: 100px;
+}
+.counter button{
+    cursor: pointer;
+    padding: 8px;
+    background-color: mediumspringgreen;
+}

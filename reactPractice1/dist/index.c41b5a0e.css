@@ -1,0 +1,63 @@
+body {
+  background: linear-gradient(to right, #2a3cad, #6d1b7b);
+}
+
+.form-content {
+  margin-inline: auto;
+  background-color: #deb887;
+  border-radius: 6px;
+  max-width: 900px;
+  margin-top: 124px;
+}
+
+form {
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+
+form div {
+  width: 44%;
+  margin: 8px 0;
+}
+
+form div input {
+  border: none;
+  outline: none;
+  padding: 12px 15px;
+}
+
+form div select {
+  padding: 5px 8px;
+}
+
+form div label {
+  font-size: larger;
+  font-style: italic;
+  font-weight: bold;
+}
+
+form div textarea {
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  color: #fff;
+  background-color: #ff4500;
+  border: none;
+  outline: none;
+  margin: 0 10px;
+  padding: 6px 48px;
+  font-size: larger;
+  font-style: italic;
+}
+
+p {
+  text-align: center;
+  color: #fff;
+  font-size: 50px;
+  font-weight: bolder;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
